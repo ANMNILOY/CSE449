@@ -1,4 +1,10 @@
 Unlisted youtube link: https://youtu.be/FLJ15oehJRM
+
 Paper Title: Personalized Course Recommendation System Fusing with Knowledge Graph and Collaborative Filtering
+
 Paper Link: https://doi.org/10.1155/2021/9590502
+
 Presentation slides link: https://docs.google.com/presentation/d/1vs4uWRLsyg4jMkBFiClo9gqEyrxJevP93aqeCmz-ceM/edit#slide=id.g22eca0ceed1_0_101
+
+Team Number: 05
+Presenter: 19101382 Ahmed Nur Merag
