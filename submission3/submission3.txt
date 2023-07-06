@@ -1,10 +1,11 @@
 Link to unlisted YouTube video:
 
 Two public links to the Concept Map (anyone on the internet can view without login):
-PDF: 
+PDF:
 https://github.com/ANMNILOY/CSE449/blob/main/submission3/Concept%20Map.pdf
+
 Native/original format: 
-https://draw.io/...
+https://drive.google.com/file/d/10MkccxlQcajFJgFLmfJcqVcN1AeK8u13/view
 
 Name, Author, Edition, year, and publisher of the Book:
 Designing Distributed Systems
