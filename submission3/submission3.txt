@@ -1,0 +1,30 @@
+Link to unlisted YouTube video:
+
+Two public links to the Concept Map (anyone on the internet can view without login):
+PDF: 
+https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+Native/original format: 
+https://draw.io/...
+
+Name, Author, Edition, year, and publisher of the Book:
+Speech and Language Processing
+Jurafsky
+3rd edition
+2014
+Pearson
+
+Link to the book:
+https://azure.microsoft.com/mediahandler/files/resourcefiles/designing-distributed-systems/Designing_Distributed_Systems.pdf
+
+Link to the book chapter:
+https://azure.microsoft.com/mediahandler/files/resourcefiles/designing-distributed-systems/Designing_Distributed_Systems.pdf#%5B%7B%22num%22%3A1277%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2Cnull%2C589.5%2Cnull%5D
+
+Group Number:
+5
+
+Group Members:
+12345678 Name A
+23456789 Name B
+34567890 Name C
+45678901 Name D
+56789012 Name E
