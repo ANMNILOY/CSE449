@@ -7,11 +7,11 @@ Native/original format:
 https://draw.io/...
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
-2014
-Pearson
+Designing Distributed Systems
+Brendan Burns
+1st edition
+2018
+O’Reilly
 
 Link to the book:
 https://azure.microsoft.com/mediahandler/files/resourcefiles/designing-distributed-systems/Designing_Distributed_Systems.pdf
