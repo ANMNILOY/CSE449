@@ -1,17 +1,20 @@
 Topic: University Recommendation System for Undergraduate Studies in Bangladesh using Distributed Machine Learning
 
+Youtube video link:
+
 Overleaf link with edit access: https://www.overleaf.com/project/649580ec5563d514fb554246
 
-PDF:
+PDF: https://drive.google.com/file/d/1Gk83TvO24Spjnk3fj-vlVTv5ta7fPXT-/view?usp=sharing
 
-Presentation Slides: 
+Presentation Slides: https://docs.google.com/presentation/d/1_5uJr0-ic4vnZRbijc62dvMpr5IEiyC4HMQvHhg-Jt8/edit?usp=sharing
+
 
 
 
 Conference login link for submitted paper:
 Conference Name: 
 Conference URL: 
-Conference Submission Date:
+Conference Submission Date: 
 Overleaf link with edit access to ST, RA and instructor gmail: https://www.overleaf.com/project/649580ec5563d514fb554246
 
 
