@@ -1,6 +1,6 @@
 Topic: University Recommendation System for Undergraduate Studies in Bangladesh using Distributed Machine Learning
 
-Youtube video link:
+Youtube video link: https://youtu.be/yu1kFZQZ9Hw
 
 Overleaf link with edit access: https://www.overleaf.com/project/649580ec5563d514fb554246
 
