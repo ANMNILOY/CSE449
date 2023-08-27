@@ -12,8 +12,8 @@ Presentation Slides: https://docs.google.com/presentation/d/1_5uJr0-ic4vnZRbijc6
 
 
 Conference login link for submitted paper:
-Conference Name: 
-Conference URL: 
+Conference Name: International Conference on Informatics in Control Automation and Robotics 2023
+Conference URL: https://icinco.scitevents.org/
 Conference Submission Date: 
 Overleaf link with edit access to ST, RA and instructor gmail: https://www.overleaf.com/project/649580ec5563d514fb554246
 
